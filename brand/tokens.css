@@ -1,0 +1,23 @@
+/* Next Year Robotics brand tokens. Fonts are on Google Fonts (OFL). */
+:root {
+  --nyr-paper: #FBFAF7;
+  --nyr-ink: #151515;
+  --nyr-white: #FFFFFF;
+  --nyr-sunday-red: #E3342F;
+  --nyr-saturday-blue: #1F5BD6;
+  --nyr-rule-gray: #D6D4CE;
+  --nyr-font-display: "Big Shoulders Display";
+  --nyr-font-display-kr: "Black Han Sans";
+  --nyr-font-body: "Gothic A1";
+  --maknae-dawn-sky: #DDEAFB;
+  --maknae-snow: #FFFFFF;
+  --maknae-night-navy: #1D2B4F;
+  --maknae-sunrise: #FF9A3C;
+  --maknae-rose: #F6B7A6;
+  --maknae-slate: #46557A;
+  --maknae-font-display: "Fredoka";
+  --maknae-font-display-kr: "Jua";
+  --maknae-font-body: "Atkinson Hyperlegible Next";
+  --maknae-font-body-kr: "Gowun Dodum";
+  --maknae-gradient-dawn: linear-gradient(180deg, #C3D9F6 0%, #E7EFFB 78%, #FCE5DA 100%);
+}
